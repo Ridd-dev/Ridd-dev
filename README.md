@@ -34,27 +34,42 @@
 
 ---
 
-## 🛠️ Technical Skills  
+## 🛠️ Technical Skills
 
-### Programming Languages  
-JavaScript | TypeScript | Dart | C# | Java  
+### Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-### Frontend Development  
-Angular | React | Angular Material | RxJS  
+### Frontend Development
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular Material](https://img.shields.io/badge/Angular_Material-FF3E00?style=for-the-badge&logo=angular&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 
-### Backend Development  
-.NET Core | Node.js | Express.js  
+### Backend Development
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Mobile Development  
-Flutter | React Native  
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### Databases  
-MySQL | MongoDB | PostgreSQL  
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Tools & Methodologies  
-Git | Azure DevOps | REST APIs | Agile/Scrum | CI/CD  
+### Tools & Methodologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge)
+![Agile/Scrum](https://img.shields.io/badge/Agile_Scrum-0052CC?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI/CD-00BF4F?style=for-the-badge)
 
----
 
 ## 📂 Projects  
 
