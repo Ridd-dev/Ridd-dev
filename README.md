@@ -23,7 +23,10 @@
 ## 🌐 Connect with Me  
 
 <p align="center">
-	<a href="mailto:ridmikasankalpanee@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="mailto:ridmikasankalpanee@gmail.com?subject=Hello%20Ridmika&body=I%20would%20like%20to%20connect%20with%20you.">
+   <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+</a>
 	<a href="https://github.com/Ridd-dev"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/ridmika-sankalpanee/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="tel:+94775658508"><img src="https://img.shields.io/badge/phone-%2300A859.svg?style=plastic&logo=phone&logoColor=white" alt="Phone"/></a>
