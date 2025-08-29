@@ -5,6 +5,12 @@
 
 ---
 
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=Ridd-dev&label=Profile%20views&color=0047AB&style=plastic" alt="Profile views"/> 
+</p>
+
+---
+
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
@@ -16,7 +22,7 @@
 - ⚡ Passionate about building **robust REST APIs** and modern SPAs.  
 - 🚀 Currently working as a **Freelance Software Developer**.  
 - 🔍 Always learning and open to new **job opportunities**.  
-- 📄 Check out [MY RESUME](Ridmika_Sankalpanee_sE.pdf).  
+- 📄 Check out [MY RESUME](https://github.com/Ridd-dev/Ridd-dev/blob/resume/Ridmika_Sankalpanee_sE.pdf).  
 
 ---
 
@@ -25,7 +31,6 @@
 <p align="center">
 	<a href="mailto:ridmikasankalpanee@gmail.com?subject=Hello%20Ridmika&body=I%20would%20like%20to%20connect%20with%20you.">
    <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
 </a>
 	<a href="https://github.com/Ridd-dev"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/ridmika-sankalpanee/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -68,7 +73,35 @@ Git | Azure DevOps | REST APIs | Agile/Scrum | CI/CD
 
 ## 📊 GitHub Stats  
 
+<details><summary><h3>🔥 Streak Stats</h3></summary>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ridd-dev&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ridd-dev&layout=compact&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ridd-dev&theme=tokyonight_duo" alt="Ridd-dev streak"/>
+</p>
+</details>
+
+<details><summary><h3>💻 Profile Stats</h3></summary>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ridd-dev&show_icons=true&count_private=true&theme=tokyonight" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ridd-dev&layout=compact&theme=tokyonight" height="200px"/>
+</p>
+</details>
+
+<details><summary><h3>⚡ Activity Graph</h3></summary>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ridd-dev&theme=github" />
+</p>
+</details>
+
+<details><summary><h3>🏆 GitHub Trophies</h3></summary>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ridd-dev&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+</p>
+</details>
+
+---
+
+## 🐍 A Snake Eating my Contributions Graph  
+
+<p align="center">
+  <img src="https://github.com/Ridd-dev/Ridd-dev/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
