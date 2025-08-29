@@ -23,15 +23,25 @@
 ## 🌐 Connect with Me  
 
 <p align="center">
-<a href="mailto:ridmikasankalpanee@gmail.com?subject=Hello%20Ridmika&body=I%20would%20like%20to%20connect%20with%20you."> <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
-
-</a><br>
-	<a href="https://github.com/Ridd-dev"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a> <br>
-	<a href="https://www.linkedin.com/in/ridmika-sankalpanee/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	
+  <!-- Gmail with email text -->
+  <a href="mailto:ridmikasankalpanee@gmail.com?subject=Hello%20Ridmika&body=I%20would%20like%20to%20connect%20with%20you." style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
+    <span style="font-family: 'Arial', sans-serif; font-size:16px; margin-left: 10px; vertical-align: middle;">
+      ridmikasankalpanee@gmail.com
+    </span>
+  </a>
+  <br><br>
+  <!-- GitHub -->
+  <a href="https://github.com/Ridd-dev">
+    <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <br><br>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/ridmika-sankalpanee/">
+    <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
----
 
 ## 🛠️ Technical Skills
 
