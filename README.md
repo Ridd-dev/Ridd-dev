@@ -16,7 +16,7 @@
 - ⚡ Passionate about building **robust REST APIs** and modern SPAs.  
 - 🚀 Currently working as a **Freelance Software Developer**.  
 - 🔍 Always learning and open to new **job opportunities**.  
-- 📄 Check out [MY RESUME](Ridmika_Sankalpanee_sE.pdf).  
+- 📄 Check out [MY RESUME](Ridmika_Sankalpanee__Se.pdf).  
 
 ---
 
