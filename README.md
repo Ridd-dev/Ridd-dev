@@ -89,10 +89,3 @@ Oracle
 - 🤖 **AI-Powered Code Summarization Model** – ML model for summarizing software notes  
 
 ---
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ridd-dev&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ridd-dev&layout=compact&theme=tokyonight" height="180px"/>
-</p>
