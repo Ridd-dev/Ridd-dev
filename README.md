@@ -11,11 +11,8 @@
 
 - 🎓 Graduate of the **University of Moratuwa**, B.Sc. (Hons) in IT.  
 - 💻 Experienced in developing & scaling **SaaS applications** using Angular, React, .NET Core & C#.  
-- 📱 Skilled in **mobile app development** with Flutter & React Native.  
-- 🗄️ Proficient in **SQL Server, MongoDB, PostgreSQL**.  
-- ⚡ Passionate about building **robust REST APIs** and modern SPAs.  
-- 🚀 Currently working as a **Freelance Software Developer**.  
-- 🔍 Always learning and open to new **job opportunities**.  
+- 🗄️ Proficient in **SQL Server, OracleDB, PostgreSQL**.  
+- ⚡ Passionate about building **robust REST APIs** and modern SPAs.    
 - 📄 Check out [MY RESUME](Ridmika_Sankalpanee__Se.pdf).  
 
 ---
